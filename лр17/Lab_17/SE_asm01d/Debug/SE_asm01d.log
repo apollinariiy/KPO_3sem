@@ -1,0 +1,19 @@
+﻿Сборка начата 25.10.2022 15:54:18.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\hardn\OneDrive\Рабочий стол\Lab_17\SE_asm01d\SE_asm01d.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\SE_asm01d.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Lib:
+         Для всех выходных данных обновления не требуется.
+         SE_asm01d.vcxproj -> C:\Users\hardn\OneDrive\Рабочий стол\Lab_17\Debug\SE_asm01d.lib
+       FinalizeBuildStatus:
+         Файл "Debug\SE_asm01d.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SE_asm01d.tlog\SE_asm01d.lastbuildstate".
+     1>Сборка проекта "C:\Users\hardn\OneDrive\Рабочий стол\Lab_17\SE_asm01d\SE_asm01d.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.04

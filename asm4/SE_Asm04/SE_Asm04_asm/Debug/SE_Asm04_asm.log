@@ -1,0 +1,3 @@
+﻿  Assembling asmFile.asm...
+LINK : warning LNK4076: недопустимый файл инкрементного состояния "Debug\SE_Asm04_asm.ilk" (будет удален); неинкрементная компоновка
+  SE_Asm04_asm.vcxproj -> D:\3sem\КПО\asm4\SE_Asm04\Debug\SE_Asm04_asm.exe

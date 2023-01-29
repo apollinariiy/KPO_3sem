@@ -1,0 +1,7 @@
+﻿  Serealizer.cpp
+  Source.cpp
+D:\3sem\КПО\asm4\SE_Asm04\Serealizer\Source.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\3sem\КПО\asm4\SE_Asm04\Serealizer\Source.cpp(23,12): warning C4244: =: преобразование "long" в "short", возможна потеря данных
+D:\3sem\КПО\asm4\SE_Asm04\Serealizer\Source.cpp(25,20): warning C4244: =: преобразование "unsigned long" в "unsigned short", возможна потеря данных
+  Создание кода...
+  Serealizer.vcxproj -> D:\3sem\КПО\asm4\SE_Asm04\Debug\Serealizer.exe

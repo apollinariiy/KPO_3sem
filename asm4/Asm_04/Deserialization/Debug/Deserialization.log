@@ -1,0 +1,5 @@
+﻿  Deser.cpp
+D:\3sem\КПО\asm4\Asm_04\Deserialization\Deser.cpp(20,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\3sem\КПО\asm4\Asm_04\Deserialization\Deser.cpp(51,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\3sem\КПО\asm4\Asm_04\Deserialization\Deser.cpp(55,13): warning C4018: <: несоответствие типов со знаком и без знака
+  Deserialization.vcxproj -> D:\3sem\КПО\asm4\Asm_04\Debug\Deserialization.exe

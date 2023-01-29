@@ -1,0 +1,10 @@
+﻿  Error.cpp
+  In.cpp
+D:\3sem\КПО\лр15\практика\SE_lab15\SE_lab15\In.cpp(28,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\3sem\КПО\лр15\практика\SE_lab15\SE_lab15\In.cpp(69,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\3sem\КПО\лр15\практика\SE_lab15\SE_lab15\In.cpp(87,25): warning C4018: <: несоответствие типов со знаком и без знака
+  Parm.cpp
+  SE_lab15.cpp
+  Log.cpp
+  Создание кода...
+  SE_lab15.vcxproj -> D:\3sem\КПО\лр15\практика\SE_lab15\Debug\SE_lab15.exe

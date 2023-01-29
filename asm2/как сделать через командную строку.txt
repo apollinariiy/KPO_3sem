@@ -1,0 +1,5 @@
+cd .. //выходим из папки с лабой 
+cd SEAsm02 // папка только с асм файлом
+ml /c Se_Asm02.asm //компиляция
+link /out:Asm02.exe "kernel32.lib" "user32.lib" Se_Asm02.obj /SUBSYSTEM:WINDOWS //компоновка
+все.

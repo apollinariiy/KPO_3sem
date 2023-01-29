@@ -1,0 +1,207 @@
+﻿  Error.cpp
+  FST.cpp
+D:\3sem\КПО\Lab20\Lab20\FST.cpp(70,37): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+  In.cpp
+D:\3sem\КПО\Lab20\Lab20\In.cpp(41,38): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  IT.cpp
+  Lab20.cpp
+D:\3sem\КПО\Lab20\Lab20\Lab20.cpp(3,22): error C2061: синтаксическая ошибка: идентификатор "_TCHAR"
+D:\3sem\КПО\Lab20\Lab20\Lab20.cpp(8,5): error C2653: Out: не является именем класса или пространства имен
+D:\3sem\КПО\Lab20\Lab20\Lab20.cpp(8,10): error C2065: OUT: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\Lab20.cpp(8,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "out"
+D:\3sem\КПО\Lab20\Lab20\Lab20.cpp(8,14): error C2065: out: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\Lab20.cpp(8,20): error C2653: Out: не является именем класса или пространства имен
+D:\3sem\КПО\Lab20\Lab20\Lab20.cpp(8,25): error C2065: INITOUT: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\Lab20.cpp(11,47): error C2065: argv: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\Lab20.cpp(13,9): error C2065: out: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\Lab20.cpp(13,15): error C2653: Out: не является именем класса или пространства имен
+D:\3sem\КПО\Lab20\Lab20\Lab20.cpp(13,20): error C3861: getout: идентификатор не найден
+D:\3sem\КПО\Lab20\Lab20\Lab20.cpp(18,38): error C2660: In::getin: функция не принимает 1 аргументов
+D:\3sem\КПО\Lab20\Lab20\In.h(38,5): message : см. объявление "In::getin"
+D:\3sem\КПО\Lab20\Lab20\Lab20.cpp(20,9): error C2653: Out: не является именем класса или пространства имен
+D:\3sem\КПО\Lab20\Lab20\Lab20.cpp(20,22): error C2065: out: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\Lab20.cpp(20,14): error C3861: WriteIn: идентификатор не найден
+D:\3sem\КПО\Lab20\Lab20\Lab20.cpp(24,9): error C2653: LA: не является именем класса или пространства имен
+D:\3sem\КПО\Lab20\Lab20\Lab20.cpp(24,13): error C3861: FindLex: идентификатор не найден
+D:\3sem\КПО\Lab20\Lab20\Lab20.cpp(26,18): error C2039: "PrintLexTable": не является членом "LT::LexTable".
+D:\3sem\КПО\Lab20\Lab20\LT.h(42): message : см. объявление "LT::LexTable"
+D:\3sem\КПО\Lab20\Lab20\Lab20.cpp(27,17): error C2039: "PrintIdTable": не является членом "IT::IdTable".
+D:\3sem\КПО\Lab20\Lab20\IT.h(38): message : см. объявление "IT::IdTable"
+D:\3sem\КПО\Lab20\Lab20\Lab20.cpp(32,9): error C2653: Out: не является именем класса или пространства имен
+D:\3sem\КПО\Lab20\Lab20\Lab20.cpp(32,20): error C2065: out: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\Lab20.cpp(32,14): error C3861: Close: идентификатор не найден
+D:\3sem\КПО\Lab20\Lab20\Lab20.cpp(37,9): error C2653: Out: не является именем класса или пространства имен
+D:\3sem\КПО\Lab20\Lab20\Lab20.cpp(37,25): error C2065: out: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\Lab20.cpp(37,14): error C3861: WriteError: идентификатор не найден
+D:\3sem\КПО\Lab20\Lab20\Lab20.cpp(38,9): error C2065: cout: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\Lab20.cpp(38,35): error C2065: endl: необъявленный идентификатор
+  Log.cpp
+  LT.cpp
+  Out.cpp
+D:\3sem\КПО\Lab20\Lab20\Out.cpp(10,20): error C2061: синтаксическая ошибка: идентификатор "ofstream"
+D:\3sem\КПО\Lab20\Lab20\Out.cpp(24,18): error C2065: endl: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\Out.cpp(36,18): error C2065: endl: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\Out.cpp(48,49): error C2065: endl: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\Out.cpp(49,75): error C2065: endl: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\Out.cpp(52,60): error C2065: endl: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\Out.cpp(52,109): error C2065: endl: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\Out.cpp(52,117): error C2065: endl: необъявленный идентификатор
+  Parm.cpp
+D:\3sem\КПО\Lab20\Lab20\Parm.cpp(16,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\3sem\КПО\Lab20\Lab20\Parm.cpp(17,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\3sem\КПО\Lab20\Lab20\Parm.cpp(18,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\3sem\КПО\Lab20\Lab20\Parm.cpp(19,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\3sem\КПО\Lab20\Lab20\Parm.cpp(20,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\3sem\КПО\Lab20\Lab20\Parm.cpp(21,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  LexAnalysis.cpp
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(7,25): error C2065: token_size: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(14,40): error C2039: "D": не является членом "In::IN".
+D:\3sem\КПО\Lab20\Lab20\In.h(29): message : см. объявление "In::IN"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(14,77): error C2039: "O": не является членом "In::IN".
+D:\3sem\КПО\Lab20\Lab20\In.h(29): message : см. объявление "In::IN"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(26,10): error C3861: Analyse: идентификатор не найден
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(32,13): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(47,15): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(53,12): error C3861: Analyse: идентификатор не найден
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(59,15): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(62,14): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(75,11): error C3861: Analyse: идентификатор не найден
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(78,14): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(80,21): warning C4305: =: усечение из "int" в "char"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(80,17): warning C4309: =: усечение константного значения
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(95,38): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(95,20): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "flag_type_variable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(95,20): error C2065: flag_type_variable: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(101,43): error C2065: LT_TI_NULLXDX: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(107,45): error C2065: LT_TI_NULLXDX: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(113,46): error C2065: LT_TI_NULLXDX: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(119,45): error C2065: LT_TI_NULLXDX: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(125,46): error C2065: LT_TI_NULLXDX: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(131,45): error C2065: LT_TI_NULLXDX: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(137,12): error C2039: "Add": не является членом "IT::IdTable".
+D:\3sem\КПО\Lab20\Lab20\IT.h(38): message : см. объявление "IT::IdTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(137,46): error C2838: "DEF": недопустимое полное имя в объявлении члена
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(137,49): error C2065: DEF: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(137,63): error C2838: "D": недопустимое полное имя в объявлении члена
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(137,64): error C2065: D: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(137,75): error C2039: "size": не является членом "LT::LexTable".
+D:\3sem\КПО\Lab20\Lab20\LT.h(42): message : см. объявление "LT::LexTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(138,48): error C2039: "size": не является членом "IT::IdTable".
+D:\3sem\КПО\Lab20\Lab20\IT.h(38): message : см. объявление "IT::IdTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(144,12): error C2039: "Add": не является членом "IT::IdTable".
+D:\3sem\КПО\Lab20\Lab20\IT.h(38): message : см. объявление "IT::IdTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(144,46): error C2838: "DEF": недопустимое полное имя в объявлении члена
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(144,49): error C2065: DEF: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(144,63): error C2838: "D": недопустимое полное имя в объявлении члена
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(144,64): error C2065: D: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(144,74): error C2039: "size": не является членом "LT::LexTable".
+D:\3sem\КПО\Lab20\Lab20\LT.h(42): message : см. объявление "LT::LexTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(145,51): error C2039: "size": не является членом "IT::IdTable".
+D:\3sem\КПО\Lab20\Lab20\IT.h(38): message : см. объявление "IT::IdTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(151,12): error C2039: "Add": не является членом "IT::IdTable".
+D:\3sem\КПО\Lab20\Lab20\IT.h(38): message : см. объявление "IT::IdTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(151,46): error C2838: "DEF": недопустимое полное имя в объявлении члена
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(151,49): error C2065: DEF: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(151,63): error C2838: "D": недопустимое полное имя в объявлении члена
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(151,64): error C2065: D: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(151,74): error C2039: "size": не является членом "LT::LexTable".
+D:\3sem\КПО\Lab20\Lab20\LT.h(42): message : см. объявление "LT::LexTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(152,50): error C2039: "size": не является членом "IT::IdTable".
+D:\3sem\КПО\Lab20\Lab20\IT.h(38): message : см. объявление "IT::IdTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(158,12): error C2039: "Add": не является членом "IT::IdTable".
+D:\3sem\КПО\Lab20\Lab20\IT.h(38): message : см. объявление "IT::IdTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(158,46): error C2838: "DEF": недопустимое полное имя в объявлении члена
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(158,49): error C2065: DEF: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(158,63): error C2838: "D": недопустимое полное имя в объявлении члена
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(158,64): error C2065: D: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(158,74): error C2039: "size": не является членом "LT::LexTable".
+D:\3sem\КПО\Lab20\Lab20\LT.h(42): message : см. объявление "LT::LexTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(159,54): error C2039: "size": не является членом "IT::IdTable".
+D:\3sem\КПО\Lab20\Lab20\IT.h(38): message : см. объявление "IT::IdTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(163,8): error C2065: LEX_EQUAL_SIGN: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(163,8): error C2131: выражение не определяется константой
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(163,8): message : обнаружено неконстантное (под)выражение
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(165,20): error C2065: LEX_EQUAL_SIGN: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(165,48): error C2065: LT_TI_NULLXDX: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(174,47): error C2065: LT_TI_NULLXDX: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(185,71): error C2065: flag_type_variable: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(185,12): error C3861: AnalyseIdentificator: идентификатор не найден
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(193,46): error C2065: LT_TI_NULLXDX: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(197,5): error C2065: flag_type_variable: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(197,48): error C2039: "size": не является членом "LT::LexTable".
+D:\3sem\КПО\Lab20\Lab20\LT.h(42): message : см. объявление "LT::LexTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(198,5): error C2065: flag_type_variable: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(198,31): error C2825: TypeOfVar: должен представлять класс или пространство имен с последующим "::"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(198,42): error C2510: TypeOfVar: выражение слева от "::" должно быть классом, структурой или объединением
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(198,45): error C2065: INT: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(206,71): error C2065: flag_type_variable: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(206,12): error C3861: AnalyseIdentificator: идентификатор не найден
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(214,45): error C2065: LT_TI_NULLXDX: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(218,5): error C2065: flag_type_variable: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(218,48): error C2039: "size": не является членом "LT::LexTable".
+D:\3sem\КПО\Lab20\Lab20\LT.h(42): message : см. объявление "LT::LexTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(219,5): error C2065: flag_type_variable: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(219,31): error C2825: TypeOfVar: должен представлять класс или пространство имен с последующим "::"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(219,42): error C2510: TypeOfVar: выражение слева от "::" должно быть классом, структурой или объединением
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(219,45): error C2065: STR: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(227,71): error C2065: flag_type_variable: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(227,12): error C3861: AnalyseIdentificator: идентификатор не найден
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(236,46): error C2065: LT_TI_NULLXDX: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(247,71): error C2065: flag_type_variable: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(247,12): error C3861: AnalyseIdentificator: идентификатор не найден
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(256,45): error C2065: LT_TI_NULLXDX: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(267,71): error C2065: flag_type_variable: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(267,12): error C3861: AnalyseIdentificator: идентификатор не найден
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(275,44): error C2065: LT_TI_NULLXDX: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(286,71): error C2065: flag_type_variable: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(286,12): error C3861: AnalyseIdentificator: идентификатор не найден
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(294,21): error C2039: "IsId": не является членом "IT::IdTable".
+D:\3sem\КПО\Lab20\Lab20\IT.h(38): message : см. объявление "IT::IdTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(295,14): error C2065: LT_TI_NULLXDX: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(299,14): error C2039: "Add": не является членом "IT::IdTable".
+D:\3sem\КПО\Lab20\Lab20\IT.h(38): message : см. объявление "IT::IdTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(299,35): error C2039: "GetEntry": не является членом "IT::IdTable".
+D:\3sem\КПО\Lab20\Lab20\IT.h(38): message : см. объявление "IT::IdTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(299,53): error C2039: "GetEntry": не является членом "LT::LexTable".
+D:\3sem\КПО\Lab20\Lab20\LT.h(42): message : см. объявление "LT::LexTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(299,71): error C2039: "size": не является членом "LT::LexTable".
+D:\3sem\КПО\Lab20\Lab20\LT.h(42): message : см. объявление "LT::LexTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(299,114): error C2039: "GetEntry": не является членом "LT::LexTable".
+D:\3sem\КПО\Lab20\Lab20\LT.h(42): message : см. объявление "LT::LexTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(299,132): error C2039: "size": не является членом "LT::LexTable".
+D:\3sem\КПО\Lab20\Lab20\LT.h(42): message : см. объявление "LT::LexTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(299,167): error C2039: "GetEntry": не является членом "IT::IdTable".
+D:\3sem\КПО\Lab20\Lab20\IT.h(38): message : см. объявление "IT::IdTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(299,185): error C2039: "GetEntry": не является членом "LT::LexTable".
+D:\3sem\КПО\Lab20\Lab20\LT.h(42): message : см. объявление "LT::LexTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(299,203): error C2039: "size": не является членом "LT::LexTable".
+D:\3sem\КПО\Lab20\Lab20\LT.h(42): message : см. объявление "LT::LexTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(299,233): error C2039: "GetLexemaName": не является членом "IT::IdTable".
+D:\3sem\КПО\Lab20\Lab20\IT.h(38): message : см. объявление "IT::IdTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(299,295): error C2039: "size": не является членом "LT::LexTable".
+D:\3sem\КПО\Lab20\Lab20\LT.h(42): message : см. объявление "LT::LexTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(300,28): error C2039: "size": не является членом "IT::IdTable".
+D:\3sem\КПО\Lab20\Lab20\IT.h(38): message : см. объявление "IT::IdTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(304,29): error C2039: "size": не является членом "IT::IdTable".
+D:\3sem\КПО\Lab20\Lab20\IT.h(38): message : см. объявление "IT::IdTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(305,29): error C2039: "size": не является членом "IT::IdTable".
+D:\3sem\КПО\Lab20\Lab20\IT.h(38): message : см. объявление "IT::IdTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(308,28): error C2039: "size": не является членом "IT::IdTable".
+D:\3sem\КПО\Lab20\Lab20\IT.h(38): message : см. объявление "IT::IdTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(310,54): error C2039: "size": не является членом "IT::IdTable".
+D:\3sem\КПО\Lab20\Lab20\IT.h(38): message : см. объявление "IT::IdTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(323,21): error C2039: "IsId": не является членом "IT::IdTable".
+D:\3sem\КПО\Lab20\Lab20\IT.h(38): message : см. объявление "IT::IdTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(324,14): error C2065: LT_TI_NULLXDX: необъявленный идентификатор
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(328,14): error C2039: "Add": не является членом "IT::IdTable".
+D:\3sem\КПО\Lab20\Lab20\IT.h(38): message : см. объявление "IT::IdTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(328,35): error C2039: "GetEntry": не является членом "IT::IdTable".
+D:\3sem\КПО\Lab20\Lab20\IT.h(38): message : см. объявление "IT::IdTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(328,53): error C2039: "GetEntry": не является членом "LT::LexTable".
+D:\3sem\КПО\Lab20\Lab20\LT.h(42): message : см. объявление "LT::LexTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(328,71): error C2039: "size": не является членом "LT::LexTable".
+D:\3sem\КПО\Lab20\Lab20\LT.h(42): message : см. объявление "LT::LexTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(328,114): error C2039: "GetEntry": не является членом "LT::LexTable".
+D:\3sem\КПО\Lab20\Lab20\LT.h(42): message : см. объявление "LT::LexTable"
+D:\3sem\КПО\Lab20\Lab20\LexAnalysis.cpp(328,122): fatal  error C1003: число ошибок превышает 100; остановка компиляции
+  Создание кода...
